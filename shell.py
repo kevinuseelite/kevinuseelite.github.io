@@ -1,7 +1,17 @@
 import subprocess
+import tqdm
+import time
+from tqdm import tqdm
 
-# Specify the absolute path of the output file
-output_file = "C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf"
+if __name__ == '__main__':
+    output_file = "C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf"
+    
+    process = subprocess.Popen(["python", "app.py", ">", output_file], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
 
-# Execute the command to generate the PDF file
-subprocess.run(["python", "app.py", ">", output_file], shell=True)
+    with tqdm(total=100, desc="Converting to PDF", unit="%", unit_scale=True) as progress:
+        for i in range(100):
+            progress.update(1)
+        time.sleep(0.000001)
+    
+    # Wait for the subprocess to finish
+    process.communicate()
