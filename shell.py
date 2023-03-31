@@ -6,7 +6,11 @@ from tqdm import tqdm
 if __name__ == '__main__':
     output_file = "C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf"
     
-    process = subprocess.Popen(["python", "app.py", ">", output_file], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    try:
+        process = subprocess.Popen(["python", "app.py", ">", output_file], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    except (OSError, subprocess.SubprocessError) as e:
+        print(f"Error: {e}")
+        exit(1)
 
     with tqdm(total=100, desc="Converting to PDF", unit="%", unit_scale=True) as progress:
         for i in range(100):
@@ -14,4 +18,13 @@ if __name__ == '__main__':
         time.sleep(0.000001)
     
     # Wait for the subprocess to finish
-    process.communicate()
+    try:
+        stdout, stderr = process.communicate(timeout=10)
+    except subprocess.TimeoutExpired:
+        process.kill()
+        print("Error: Subprocess timed out.")
+        exit(1)
+    
+    if process.returncode != 0:
+        print(f"Error: Subprocess failed with code {process.returncode}.")
+        exit(1)
