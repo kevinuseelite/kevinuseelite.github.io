@@ -1,0 +1,594 @@
+@page {
+    margin: 24mm 8mm 12mm 8mm;
+    size: letter;
+
+    @top-left {
+        content: element(header);
+        vertical-align: bottom;
+    }
+    @bottom-left {
+        content: element(footer);
+        vertical-align: top;
+    }
+}
+
+@page :-ro-nth(2) {
+    margin: 38mm 20mm 24mm 20mm;
+    size: 241.3mm 304.8mm;
+    padding-top: 5mm;
+}
+
+/*
+ * General styles
+ */
+
+:root {
+    --color-primary: #a3bd62;
+    --color-secondary: #8fae40;
+    --color-column: #6d6e71;
+    --color-tertiary: #f1bb6e;
+
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+
+.flex {
+    display: flex;
+}
+
+h1 {
+    color: var(--color-secondary);
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 0.7rem;
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    font-size: 0.7rem;
+    text-align: justify;
+}
+
+p + h1 {
+    margin-top: 4mm;
+}
+
+/*
+ * Page header
+ */
+
+header {
+    position: running(header);
+    display: grid;
+    grid-template-columns: 5fr 1px 14.3fr;
+    border-bottom: solid 0.5px gray;
+    margin-top: 7mm;
+    margin-bottom: 1mm;
+}
+
+header > div:first-child {
+    justify-content: right;
+    align-items: end;
+    margin-bottom: 1mm;
+    padding-right: 9mm;
+}
+
+header > div img {
+    width: auto;
+    height: 13mm;
+}
+
+header .header-mid {
+    border-right: solid 0.5px gray;
+    margin-bottom: 3mm;
+}
+
+header .header-right {
+    justify-content: right;
+    align-items: end;
+    margin-bottom: 3mm;
+}
+
+header .big6 {
+    color: var(--color-primary);
+    font-size: 30px;
+    border: solid 0.5px var(--color-primary);
+    align-items: center;
+    justify-content: center;
+    margin-left: 3mm;
+    padding: 2mm;
+}
+
+header .big6-text {
+    justify-items: right;
+}
+
+header .big6-text > div {
+    font-weight: bold;
+    font-size: 22px;
+    padding-bottom: 1mm;
+}
+
+header .big6-text > span {
+    font-size: 14px;
+}
+
+/*
+ * Page footer
+ */
+
+footer {
+    display: grid;
+    grid-template-columns: 2.9fr 1px 8.7fr 1px 7.4fr;
+    border-top: solid 0.5px gray;
+    position: running(footer);
+}
+
+footer > div:first-child {
+    padding-left: 10mm;
+    padding-right: 8mm;
+    padding-top: 1mm;
+    box-sizing: border-box;
+}
+
+footer > div:first-child img {
+    height: 8mm;
+    width: auto;
+}
+
+footer .bottom-border {
+    border-right: solid;
+    border-width: 0.5px;
+    border-color: gray;
+}
+
+footer .website {
+    font-size: 14px;
+    letter-spacing: 1.5mm;
+    text-align: center;
+    padding-top: 3mm;
+}
+
+footer .bottom-note-text {
+    font-size: 8px;
+    padding-left: 5mm;
+    padding-top: 1mm;
+}
+
+/*
+ * Components
+ */
+
+.imagesection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100%;
+    background-color: var(--color-column);
+    margin-left: -8mm;
+    margin-right: -8mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+    height: 43mm;
+}
+
+.imagesection > div:first-child {
+    padding-top: 8mm;
+    padding-bottom: 8mm;
+    padding-left: 13mm;
+}
+
+.imagesection > div:first-child img {
+    height: 26mm;
+    width: 72mm;
+}
+
+.lampcollection {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5mm;
+}
+
+.lampcollection > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 11px;
+    justify-content: center;
+}
+
+.lampcollection > div > div {
+    color: white;
+}
+.lampcollection > div > div img {
+    height: 6mm;
+    width: auto;
+}
+
+.image-text-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 1mm;
+    grid-template-rows: 25mm;
+    margin-top: 1mm;
+}
+
+.image-text-group > div > div {
+    text-align: center;
+}
+
+.image-text-group > div > div:first-child {
+    background-color: var(--color-column);
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 11px;
+}
+
+.image-text-group > div > div:first-child + div {
+    color: gray;
+    font-size: 7px;
+}
+
+.image-text-group > div > div > img {
+    width: 21mm;
+    height: 17mm;
+}
+
+.midsection {     
+    display: grid;
+    grid-template-columns: 50% 1px 50%;
+    padding-top: 1mm;
+    border-top: solid;
+    border-width: 0.5px;
+    border-color: gray;
+}
+
+.midsection-left > div:first-child {
+    box-sizing: border-box;
+    padding-right: 16mm;
+}
+.midsection-left > div:first-child img {
+    height: 71mm;       
+    width: 100%;
+}
+
+.midsection-mid {
+    border-left: solid 0.5px black;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.midsection-right {
+    padding-left: 11mm;
+    margin-top: 3mm;
+}
+
+.textgroup {
+    margin-left: 37mm;
+    margin-top: 3mm;
+    font-size: 8px;
+}
+
+.bottom-textgroup {
+    margin-left: 20mm;
+    margin-top: 1mm;
+    font-size: 8.5px;
+}
+.bottom-textgroup > span {
+    text-align: center;
+    margin-left: -8mm;
+}
+
+.bottom-section {
+    margin-top: 8mm;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 2mm;
+    margin-left: 20mm;
+    margin-right: 15mm;
+    font-size: 7px;
+}
+
+td {
+    border-top: solid;
+    border-collapse: collapse;
+    border-width: 0.5px;
+    border-color: gray;
+    text-align: center;
+    padding: 1mm;
+}
+
+th {
+    text-transform: uppercase;
+    border-top: solid;
+    border-color: gray;
+    border-collapse: collapse;
+    border-width: 0.5px;
+    padding: .8mm;
+}
+
+th:not(:first-child),
+td:not(:first-child) {
+    border-left: 0.5px solid gray;
+}
+
+.data-grid {
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    margin-top: 2.5mm;
+    gap: 1mm;
+}
+
+.data-grid > div:nth-child(2n+1) {
+    background-color: var(--color-column);
+    color: white;
+    text-transform: uppercase;
+    padding-left: 2mm;
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+    font-size: 9px;
+}
+
+.data-grid > div:nth-child(2n) {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: black;
+    padding-left: 1mm;
+    padding-top: 0.5mm;
+    padding-bottom: 0.5mm;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+
+.text-below-charts {
+    text-align: center;
+    margin-top: 1mm;
+    font-size: 8px;
+}
+
+.lampheader {
+    font-weight: bold;
+    color: white;
+}
+
+.rightside-text {
+    font-size: 1.1em;
+}
+
+.logos {
+    margin-left: 13mm;
+    margin-right: 8.5mm;
+    border-top: solid 0.5px gray;
+    justify-content: center;
+    gap: 5mm;
+}
+
+.logos > div > img {
+    height: 9mm;
+    width: auto;   
+}
+
+.logos > div  {
+    text-align: center;
+    justify-content: end;
+}
+
+/*
+* Page Content
+*/
+
+.top-half {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8mm;
+    margin-top: 20mm;
+    font-size: 0.672rem;
+}
+
+.top-half > div:first-child > div {
+    margin-bottom: 4mm;
+}
+
+.top-half > div:first-child > div:last-child > div:last-child > div {
+    padding-top: .5mm;
+}
+
+.top-half > div:first-child > div:nth-child(1),
+.top-half > div:first-child > div:nth-child(2),
+.top-half > div:first-child > div:nth-child(3) {
+    text-align: justify;
+}
+
+.top-half > div:last-child {
+    margin-left: 8mm;
+}
+
+.top-half > div:last-child > div:first-child {
+    margin-bottom: 5mm;
+}
+
+.top-half > div:last-child > div:nth-child(2) > div {
+    margin-bottom: 3mm;
+}
+
+.image-text {
+    margin-left: 10mm;
+    text-align: justify;
+}
+
+.image-text > div {
+    margin-top: 3mm;
+}
+
+.image-text img {
+    float: left;
+    height: 5mm;
+    width: auto;
+}
+
+.text-group {
+    margin-bottom: 2mm;
+}
+
+.bottom-half {
+    margin-top: 7mm;
+    font-size: 0.6rem;
+}
+
+.bottom-half > div:last-child > div {
+    font-size: .5rem;
+}
+
+.bottom-half > div:last-child > div:first-child span {
+    margin-left: 2mm;
+}
+
+.bottom-half > div:last-child > div:first-child span:last-child {
+    margin-left: 6mm;
+}
+.bottom-half > div:last-child > div:last-child span {
+    margin-right: 3mm;
+}
+
+.table {
+    border: solid .5px black;
+    display: grid;
+    grid-template-columns: 1.3fr 1.2fr 1.7fr 1.2fr .9fr 3.2fr 2.8fr 4.1fr;
+    border: solid 0.5px gray;
+    border-collapse: collapse;
+    font-size: 0.55rem;
+}
+
+.orange {
+    color: var(--color-tertiary);
+    padding-left: 1mm;
+    font-size: .5rem;
+}
+
+.gray-text {
+    color: gray;
+    padding-left: 1mm;
+    font-size: .5rem;
+}
+
+.table > div {
+    border-right: solid 0.5px gray; 
+}
+
+.table > div:nth-child(1),
+.table > div:nth-child(2),
+.table > div:nth-child(3) {
+    grid-row: 1 / span 5;
+}
+
+.table > div:nth-child(4),
+.table > div:nth-child(5),
+.table > div:nth-child(6) {
+    grid-row: 1 / span 2;
+}
+
+.table > div:nth-child(5) sup {
+    color: black;  
+}
+
+.table > div:nth-child(7) {
+    grid-row: 1 / span 3;
+    font-size: .55rem;
+}
+
+.table > div:nth-child(7) > div:nth-child(2) div:nth-child(2n) {
+    padding-bottom: 1mm;
+}
+
+.list-border {
+    border-bottom: solid .5px gray;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+
+.table > div:nth-child(8) {
+    border-right: none;
+}
+
+.table > div:nth-child(8) > div:last-child {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.table > div:nth-child(8) > div:last-child > div:last-child {
+    font-size: .45rem;
+}
+
+.table > div:nth-child(9) {
+    grid-row: 2 / span 2;
+    border-right: none;
+}
+
+.table > div:nth-child(9) > div:last-child {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.table > div:nth-child(10),
+.table > div:nth-child(11),
+.table > div:nth-child(12) {
+    grid-row: 3 / span 3;  
+}
+
+.table > div:nth-child(12) sup {
+    color: black;  
+}
+
+.table > div:nth-child(13) {
+    grid-row: 4 / 5;
+}
+
+.table > div:nth-child(14) {
+    grid-row: 4 / 5;
+    border-right: none;
+}
+
+.table > div:nth-child(15) {
+    grid-row: 5 / 6;
+}
+
+
+.table sup {
+    color: var(--color-tertiary);
+}
+
+.table sub {
+    color: var(--color-tertiary);
+    padding-right: 1mm;
+    float: right;
+}
+
+.title {
+    background-color: var(--color-column);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: bold;
+}
+
+.table > div > div:nth-child(2){
+    padding-left: 1mm;
+    padding-top: 1mm;
+}
+
+.listelement {
+    padding-bottom: 1mm;
+}
+
+.listelement::before {
+    content: "\00a0";
+    display: inline-block;
+    width: 2mm;
+    background-image: url(../images/checkbox.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
