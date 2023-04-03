@@ -4,26 +4,24 @@ from __future__ import print_function
 
 import os
 import sys
+import var as v
 
-# You can download the PDFreactor Web Service Python client from: 
-# http://www.pdfreactor.com/download/get/?product=pdfreactor&type=webservice_clients&jre=false
+
+#You can download the PDFreactor Web Service Python client from: 
+#http://www.pdfreactor.com/download/get/?product=pdfreactor&type=webservice_clients&jre=false
+
 from PDFreactor import *
 
 # Create new PDFreactor instance
 pdfReactor = PDFreactor()
 
-# Set the base URL for all relative links in the HTML document
-base_url = 'https://kevinuseelite.github.io/'
-
 # Create a new PDFreactor configuration object
 config = {
     # Specify the input document
-    'document': base_url + 'index.html',
+    'document': v.base_url + v.part_temp,
 
     # Set the base URL for all relative links in the HTML document
-    'baseURL': base_url,
-
-
+    'baseURL': v.base_url,
 }
 
 # The resulting PDF
@@ -42,12 +40,12 @@ except PDFreactorWebserviceException as e:
 if result != None:
     # Used to prevent newlines are converted to Windows newlines (\n --> \r\n) 
     # when using Python on Windows systems 
-    if sys.platform == "win32":
+    if sys.platform == v.platform:
         import msvcrt
         msvcrt.setmode(sys.stdout.fileno(), os.O_BINARY)
     
     # Set the correct header for PDF output and offer as download
-    print("Content-Disposition: attachment; filename=output.pdf")
+    print("Content-Disposition: attachment")
     print("Content-Type: application/pdf\n")
     
     # Write PDF content to standard output
