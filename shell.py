@@ -11,7 +11,6 @@ import logging.handlers
 import pymysql
 import warnings 
 
-
 start_time = time.time()
 # create logger
 logger = logging.getLogger(__name__)
@@ -83,7 +82,6 @@ def run_script():
         exit(1)
 
 if __name__ == '__main__':
-    print(v.creds)
     run_script()
     end_time = time.time()
     runtime = end_time - start_time

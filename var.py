@@ -20,7 +20,7 @@ creds_path = "creds.txt"
 
 # Variables to grab the images
 img_dir = r"C:\Users\kramos\Desktop\kevinuseelite.github.io\images"
-image_extensions = [".jpg", ".jpeg", ".png", ".gif", ".bmp"]
+image_extensions = [ ".jpg", ".jpeg", ".png", ".gif", ".bmp" ]
 num_images = 0
 img_paths = []
 creds = {}

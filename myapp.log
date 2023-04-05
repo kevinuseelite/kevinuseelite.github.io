@@ -1,1215 +1,411 @@
-2023-04-05 11:08:52,662 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:08:52,662 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:08:54,826 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:09:31,697 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:09:31,697 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:09:33,784 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:09:35,407 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:09:35,408 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:09:36,764 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:09:38,373 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:09:38,373 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:09:39,729 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:09:41,302 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:09:41,303 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:09:42,617 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:01,650 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:01,650 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:03,378 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:04,973 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:04,974 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:06,336 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:07,913 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:07,913 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:09,160 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:10,742 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:10,742 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:12,066 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:13,627 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:13,627 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:14,938 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:16,594 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:16,595 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:17,980 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:19,708 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:19,709 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:21,284 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:23,255 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:23,255 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:24,687 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:26,976 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:26,976 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:28,391 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:30,691 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:30,692 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:32,725 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:34,558 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:34,559 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:35,940 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:37,544 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:37,544 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:38,917 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:40,524 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:40,525 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:42,029 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:44,526 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:44,527 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:46,220 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:47,997 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:47,998 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:49,434 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:51,234 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:51,235 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:53,331 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:55,361 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:55,362 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:56,689 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:13:58,291 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:13:58,291 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:13:59,634 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:01,194 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:01,195 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:02,602 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:04,263 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:04,264 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:05,619 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:07,341 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:07,341 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:08,621 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:10,181 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:10,181 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:11,540 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:13,160 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:13,161 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:14,638 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:16,273 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:16,273 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:17,606 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:19,195 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:19,196 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:20,541 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:22,141 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:22,141 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:23,483 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:25,062 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:25,062 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:26,341 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:27,921 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:27,921 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:29,167 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:30,714 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:30,715 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:32,067 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:33,675 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:33,675 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:35,047 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:36,593 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:36,594 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:37,929 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:39,737 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:39,737 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:41,046 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:42,626 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:42,627 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:43,982 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:45,570 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:45,570 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:46,878 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:48,444 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:48,444 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:49,816 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:51,387 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:51,387 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:52,693 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:54,248 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:54,248 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:55,593 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:14:57,220 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:14:57,221 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:14:58,623 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:00,245 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:00,246 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:01,740 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:03,416 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:03,417 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:04,800 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:06,358 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:06,359 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:07,721 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:09,309 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:09,309 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:10,646 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:12,256 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:12,256 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:13,522 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:15,084 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:15,085 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:16,368 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:17,948 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:17,949 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:19,223 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:20,856 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:20,856 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:22,183 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:23,747 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:23,747 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:25,065 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:26,617 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:26,617 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:27,889 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:29,586 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:29,587 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:30,987 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:32,863 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:32,864 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:34,130 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:35,707 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:35,708 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:37,252 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:39,034 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:39,035 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:40,293 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:41,917 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:41,918 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:43,228 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:44,766 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:44,766 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:46,139 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:47,868 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:47,868 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:49,784 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:51,522 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:51,523 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:52,863 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:54,558 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:54,559 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:55,825 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:15:57,428 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:15:57,428 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:15:58,759 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:00,345 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:00,346 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:01,667 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:03,233 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:03,233 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:04,557 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:06,145 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:06,146 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:07,446 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:09,019 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:09,019 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:10,347 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:11,904 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:11,904 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:13,217 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:14,824 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:14,825 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:16,112 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:17,630 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:17,630 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:18,863 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:20,436 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:20,436 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:21,739 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:23,298 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:23,298 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:24,568 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:26,164 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:26,164 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:27,393 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:28,919 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:28,920 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:30,236 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:31,821 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:31,821 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:33,073 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:34,625 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:34,625 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:35,946 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:37,502 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:37,502 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:38,732 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:40,285 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:40,285 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:41,608 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:43,136 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:43,136 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:44,361 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:45,894 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:45,894 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:47,216 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:48,756 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:48,756 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:49,986 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:51,509 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:51,509 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:52,827 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:54,380 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:54,380 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:55,616 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:16:57,156 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:16:57,157 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:16:58,534 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:00,052 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:00,053 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:01,331 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:03,501 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:03,501 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:04,812 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:06,353 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:06,354 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:07,658 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:09,239 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:09,239 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:10,527 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:12,050 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:12,051 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:13,390 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:14,974 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:14,975 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:16,269 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:17,845 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:17,846 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:19,135 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:20,652 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:20,652 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:21,948 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:23,530 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:23,530 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:24,821 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:26,363 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:26,363 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:27,691 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:29,238 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:29,239 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:30,557 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:32,293 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:32,293 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:33,646 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:35,240 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:35,241 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:36,541 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:38,126 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:38,127 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:39,468 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:41,028 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:41,028 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:42,404 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:43,938 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:43,939 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:45,204 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:46,802 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:46,803 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:48,151 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:49,756 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:49,757 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:51,010 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:52,586 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:52,587 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:53,914 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:55,483 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:55,484 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:56,703 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:17:58,292 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:17:58,293 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:17:59,586 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:22,609 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:22,609 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:24,778 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:26,321 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:26,322 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:27,701 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:29,224 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:29,225 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:30,561 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:32,110 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:32,111 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:33,436 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:34,998 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:34,998 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:36,339 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:37,863 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:37,863 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:39,163 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:40,755 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:40,756 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:42,062 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:43,670 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:43,670 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:44,903 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:46,421 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:46,421 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:47,763 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:49,386 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:49,387 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:50,636 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:52,234 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:52,235 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:53,559 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:55,098 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:55,099 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:56,416 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:21:57,973 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:21:57,973 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:21:59,289 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:00,878 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:00,880 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:02,255 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:03,863 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:03,864 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:05,414 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:07,097 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:07,097 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:08,539 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:10,479 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:10,479 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:12,019 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:13,790 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:13,791 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:15,338 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:17,374 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:17,375 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:18,678 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:20,415 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:20,416 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:22,088 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:23,891 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:23,892 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:25,337 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:27,257 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:27,257 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:28,770 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:30,489 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:30,490 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:31,897 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:33,463 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:33,464 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:34,888 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:36,626 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:36,626 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:38,128 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:39,859 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:39,860 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:41,124 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:43,162 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:43,163 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:44,590 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:46,288 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:46,289 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:47,885 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:49,748 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:49,748 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:51,057 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:52,695 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:52,696 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:54,059 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:55,890 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:55,890 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:22:57,286 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:22:58,968 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:22:58,968 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:00,313 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:01,869 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:01,869 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:03,169 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:04,719 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:04,719 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:05,963 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:07,502 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:07,502 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:08,843 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:10,406 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:10,406 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:11,777 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:13,401 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:13,401 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:14,731 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:16,300 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:16,301 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:17,671 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:19,282 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:19,283 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:20,713 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:22,312 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:22,312 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:23,707 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:25,355 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:25,356 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:26,738 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:28,485 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:28,485 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:29,839 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:31,542 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:31,542 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:33,108 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:34,852 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:34,853 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:36,173 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:37,696 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:37,696 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:38,997 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:40,539 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:40,540 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:41,884 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:43,461 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:43,462 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:44,864 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:46,406 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:46,407 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:47,674 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:49,271 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:49,271 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:50,530 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:52,233 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:52,233 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:53,623 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:55,223 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:55,224 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:56,578 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:23:58,143 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:23:58,143 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:23:59,454 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:01,012 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:01,013 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:02,360 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:03,940 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:03,940 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:05,257 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:06,835 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:06,835 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:08,080 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:09,618 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:09,618 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:10,950 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:12,539 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:12,539 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:13,809 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:15,354 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:15,354 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:16,682 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:18,251 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:18,251 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:19,498 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:21,042 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:21,042 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:22,391 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:23,952 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:23,952 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:25,195 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:26,737 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:26,737 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:28,064 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:29,621 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:29,621 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:30,882 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:32,427 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:32,427 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:34,608 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:36,178 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:36,179 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:37,484 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:39,022 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:39,023 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:40,368 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:41,919 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:41,919 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:43,479 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:45,380 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:45,380 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:46,733 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:48,315 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:48,316 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:49,581 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:51,169 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:51,170 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:52,427 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:54,032 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:54,032 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:55,297 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:56,842 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:56,842 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:24:58,204 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:24:59,749 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:24:59,750 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:01,031 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:02,650 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:02,650 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:03,903 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:05,531 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:05,532 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:06,828 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:08,363 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:08,363 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:09,767 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:11,328 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:11,328 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:12,638 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:14,186 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:14,186 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:15,470 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:17,037 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:17,037 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:18,294 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:19,833 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:19,833 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:21,168 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:22,755 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:22,755 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:24,051 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:25,598 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:25,599 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:26,944 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:28,513 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:28,513 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:29,758 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:31,304 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:31,305 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:32,645 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:34,216 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:34,216 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:35,482 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:37,038 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:37,038 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:38,390 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:39,951 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:39,951 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:41,203 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:42,730 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:42,730 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:44,076 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:45,608 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:45,608 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:46,850 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:48,385 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:48,386 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:49,724 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:51,263 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:51,263 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:52,506 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:54,048 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:54,049 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:55,391 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:56,951 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:56,951 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:25:58,216 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:25:59,756 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:25:59,756 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:01,095 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:02,672 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:02,672 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:03,939 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:05,487 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:05,487 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:06,841 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:40,080 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:40,081 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:41,502 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:43,100 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:43,100 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:44,323 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:45,873 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:45,873 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:47,183 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:26:48,737 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:26:48,737 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:26:50,035 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:27,545 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:27,546 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:28,894 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:30,432 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:30,432 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:31,792 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:33,382 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:33,382 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:34,646 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:36,227 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:36,227 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:37,803 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:39,613 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:39,613 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:41,044 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:42,716 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:42,716 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:44,208 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:46,003 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:46,004 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:47,479 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:49,155 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:49,155 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:50,623 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:52,366 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:52,367 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:53,832 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:55,515 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:55,516 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:28:56,965 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:28:58,862 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:28:58,863 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:00,285 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:01,939 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:01,939 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:03,414 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:05,237 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:05,238 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:06,601 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:08,357 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:08,357 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:09,823 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:11,488 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:11,488 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:12,811 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:14,432 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:14,432 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:15,699 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:17,298 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:17,299 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:18,622 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:20,254 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:20,255 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:21,638 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:23,324 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:23,324 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:24,769 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:26,391 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:26,391 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:27,664 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:29,319 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:29,320 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:30,571 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:32,196 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:32,197 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:33,542 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:35,179 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:35,180 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:36,479 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:38,014 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:38,015 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:39,287 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:40,850 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:40,851 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:42,164 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:43,727 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:43,727 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:45,026 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:46,539 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:46,539 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:47,884 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:49,441 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:49,442 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:50,753 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:52,291 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:52,292 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:53,610 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:55,187 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:55,188 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:56,492 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:29:58,063 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:29:58,064 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:29:59,410 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:00,969 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:00,969 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:02,268 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:03,890 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:03,890 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:05,147 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:06,758 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:06,758 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:08,022 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:09,649 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:09,650 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:11,038 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:12,619 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:12,620 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:13,965 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:15,491 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:15,491 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:16,825 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:18,370 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:18,371 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:19,685 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:21,270 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:21,271 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:22,600 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:24,128 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:24,129 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:25,419 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:27,000 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:27,001 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:28,348 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:29,969 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:29,970 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:31,217 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:32,734 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:32,734 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:34,053 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:35,628 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:35,629 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:36,900 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:38,471 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:38,472 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:39,766 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:41,348 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:41,348 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:42,655 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:44,294 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:44,294 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:45,596 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:47,174 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:47,174 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:48,507 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:50,025 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:50,026 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:51,312 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:52,860 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:52,860 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:54,204 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:55,839 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:55,839 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:57,080 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:30:58,601 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:30:58,602 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:30:59,918 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:01,527 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:01,527 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:02,865 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:04,497 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:04,497 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:05,828 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:07,398 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:07,399 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:08,759 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:10,327 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:10,327 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:11,646 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:13,458 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:13,458 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:14,810 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:16,391 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:16,391 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:17,691 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:19,381 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:19,381 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:20,687 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:22,217 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:22,218 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:23,558 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:25,137 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:25,138 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:27,287 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:28,960 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:28,960 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:30,502 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:32,136 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:32,136 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:33,468 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:34,996 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:34,996 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:36,313 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:37,882 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:37,883 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:39,240 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:40,861 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:40,862 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:42,161 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:43,746 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:43,746 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:45,005 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:46,596 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:46,597 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:47,988 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:49,763 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:49,764 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:51,076 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:52,652 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:52,652 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:54,035 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:55,634 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:55,634 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:56,944 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:31:58,621 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:31:58,622 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:31:59,959 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:01,638 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:01,639 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:03,065 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:04,687 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:04,688 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:05,936 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:07,535 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:07,536 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:08,834 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:10,346 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:10,347 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:11,692 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:13,299 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:13,300 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:14,576 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:16,112 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:16,113 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:17,391 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:18,949 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:18,949 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:20,280 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:21,822 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:21,823 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:23,108 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:24,674 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:24,675 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:25,999 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:27,699 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:27,699 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:28,943 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:30,459 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:30,459 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:31,772 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:33,339 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:33,340 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:34,568 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:36,150 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:36,151 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:37,464 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:39,095 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:39,096 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:50,977 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:52,555 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:52,555 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:53,896 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:55,435 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:55,435 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:56,689 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:32:58,327 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:32:58,327 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:32:59,575 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:01,175 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:01,176 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:02,519 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:04,060 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:04,061 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:05,407 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:06,951 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:06,951 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:08,279 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:09,861 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:09,861 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:11,229 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:12,800 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:12,800 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:14,097 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:15,655 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:15,656 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:17,020 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:18,574 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:18,574 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:19,851 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:21,422 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:21,423 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:22,714 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:24,283 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:24,284 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:25,568 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:27,134 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:27,134 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:28,456 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:33:29,986 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:33:29,986 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:33:31,238 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:36,707 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:36,707 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:38,014 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:39,543 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:39,543 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:40,910 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:42,500 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:42,500 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:43,746 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:45,289 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:45,289 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:46,630 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:48,179 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:48,179 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:49,448 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:50,977 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:50,977 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:52,326 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:53,852 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:53,852 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:55,104 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:56,664 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:56,664 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:37:58,060 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:37:59,586 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:37:59,586 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:00,936 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:02,490 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:02,490 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:03,830 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:05,437 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:05,438 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:06,767 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:08,368 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:08,368 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:09,686 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:11,218 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:11,219 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:12,482 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:14,084 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:14,085 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:15,390 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:16,999 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:16,999 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:18,224 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:19,739 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:19,739 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:21,056 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:22,649 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:22,650 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:23,960 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:25,502 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:25,503 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:26,758 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:28,347 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:28,347 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:29,660 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:31,202 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:31,203 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:32,527 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:34,103 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:34,104 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:35,390 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:36,920 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:36,921 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:38,184 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:39,760 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:39,761 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:41,124 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:42,727 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:42,728 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:44,046 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:45,642 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:45,644 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:47,058 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:48,620 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:48,620 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:49,895 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:51,445 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:51,445 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:52,764 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:54,391 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:54,391 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:55,693 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:38:57,273 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:38:57,273 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:38:59,003 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:00,671 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:00,671 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:01,883 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:03,484 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:03,484 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:04,760 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:06,413 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:06,413 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:07,701 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:09,261 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:09,261 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:10,589 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:12,198 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:12,198 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:13,443 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:14,989 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:14,989 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:16,351 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:17,918 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:17,918 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:19,177 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:20,747 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:20,747 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:22,082 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:23,655 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:23,655 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:24,894 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:26,432 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:26,432 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:27,802 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:29,364 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:29,364 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:30,628 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:32,165 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:32,165 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:34,214 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:35,785 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:35,786 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:37,101 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:38,625 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:38,625 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:39,935 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:41,504 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:41,505 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:42,802 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:44,363 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:44,363 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:45,673 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:47,232 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:47,232 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:48,512 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:50,160 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:50,161 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:51,505 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:53,053 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:53,054 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:54,358 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:55,931 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:55,932 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:39:57,241 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:39:58,798 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:39:58,799 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:00,091 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:01,638 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:01,639 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:02,915 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:04,440 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:04,440 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:05,779 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:07,440 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:07,441 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:08,712 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:10,339 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:10,340 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:11,654 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:13,243 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:13,244 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:14,732 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:16,362 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:16,362 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:17,657 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:19,216 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:19,216 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:20,472 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:22,083 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:22,083 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:32,263 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:33,810 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:33,810 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:35,157 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:36,730 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:36,731 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:38,039 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:39,578 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:39,578 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:40,925 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:42,456 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:42,456 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:43,777 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:45,363 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:45,363 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:46,685 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:48,225 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:48,226 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:49,506 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:51,067 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:51,067 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:52,427 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:54,060 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:54,060 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:55,328 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:56,847 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:56,847 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:40:58,196 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:40:59,792 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:40:59,793 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:01,060 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:02,658 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:02,659 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:04,004 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:05,564 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:05,565 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:06,913 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:08,515 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:08,515 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:09,847 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:11,409 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:11,410 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:12,725 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:14,365 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:14,366 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:15,634 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:17,246 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:17,246 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:18,507 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:20,097 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:20,098 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:21,429 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:22,967 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:22,968 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:24,279 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:25,834 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:25,834 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:28,006 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:29,565 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:29,566 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:30,910 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:32,430 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:32,431 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:33,770 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:35,328 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:35,328 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:36,683 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:38,247 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:38,247 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:39,576 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:41,126 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:41,126 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:42,406 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:44,015 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:44,016 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:51,280 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:52,890 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:52,891 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:54,183 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:41:55,734 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:41:55,734 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:41:57,068 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:02,090 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:02,090 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:03,451 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:05,025 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:05,025 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:06,368 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:07,949 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:07,950 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:09,301 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:10,882 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:10,883 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:12,143 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:13,723 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:13,723 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:15,077 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:16,659 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:16,660 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:17,957 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:19,510 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:19,510 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:20,845 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:22,403 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:22,404 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:23,730 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:25,336 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:25,337 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:26,728 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:28,631 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:28,632 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:30,177 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:31,945 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:31,945 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:33,581 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:35,288 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:35,288 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:36,648 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:38,272 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:38,272 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:39,579 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:41,165 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:41,166 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:42,509 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
-2023-04-05 11:42:44,097 - __main__ - INFO - Successfully connected to MySQL server
-2023-04-05 11:42:44,098 - __main__ - WARNING - Output file already exists and will be overwritten.
-2023-04-05 11:42:45,737 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:39,936 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:39,936 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:42,497 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:44,062 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:44,062 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:45,707 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:47,309 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:47,314 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:48,974 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:50,582 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:50,582 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:52,219 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:53,800 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:53,801 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:55,456 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:43:57,051 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:43:57,051 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:43:58,641 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:03,958 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:03,958 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:05,627 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:07,206 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:07,207 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:08,895 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:10,532 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:10,532 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:12,118 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:13,657 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:13,657 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:15,305 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:16,856 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:16,856 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:18,512 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:20,096 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:20,096 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:21,762 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:23,366 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:23,366 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:25,044 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:26,646 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:26,647 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:28,377 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:30,330 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:30,331 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:32,371 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:33,926 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:33,927 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:36,791 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:38,550 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:38,550 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:40,687 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:42,501 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:42,501 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:44,505 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:46,612 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:46,613 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:48,454 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:50,134 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:50,134 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:51,793 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:53,333 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:53,333 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:55,019 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:44:56,759 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:44:56,760 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:44:58,807 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:00,875 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:00,876 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:03,010 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:04,863 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:04,864 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:06,509 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:08,103 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:08,104 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:09,807 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:11,471 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:11,472 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:13,043 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:14,546 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:14,547 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:16,180 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:17,824 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:17,825 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:19,465 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:20,984 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:20,985 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:22,871 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:24,601 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:24,601 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:26,292 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:27,930 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:27,930 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:29,781 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:31,453 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:31,454 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:33,121 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:34,824 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:34,825 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:36,558 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:38,258 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:38,259 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:39,895 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:41,535 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:41,535 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:43,374 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:45,120 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:45,121 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:46,707 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:48,227 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:48,228 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:49,893 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:51,458 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:51,458 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:53,122 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:54,708 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:54,710 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:56,387 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:45:58,007 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:45:58,008 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:45:59,601 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:01,143 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:01,144 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:02,805 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:04,367 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:04,367 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:06,044 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:07,653 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:07,653 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:09,330 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:10,943 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:10,943 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:12,544 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:14,071 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:14,071 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:15,727 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:17,314 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:17,314 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:18,909 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:20,412 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:20,413 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:22,101 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:23,697 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:23,698 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:25,278 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:26,783 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:26,784 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:28,449 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:29,989 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:29,989 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:31,615 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:33,128 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:33,129 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:34,813 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:36,417 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:36,418 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:38,061 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:39,668 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:39,668 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:41,422 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:43,105 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:43,106 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:44,705 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:46,238 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:46,239 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:47,940 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:49,737 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:49,738 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:51,626 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:53,378 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:53,379 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:55,217 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:46:57,014 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:46:57,014 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:46:59,018 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:00,645 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:00,646 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:02,495 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:04,117 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:04,118 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:06,002 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:07,787 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:07,788 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:09,692 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:11,550 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:11,551 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:13,470 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:15,203 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:15,203 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:16,997 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:18,776 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:18,776 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:20,779 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:22,396 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:22,396 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:24,294 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:26,070 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:26,071 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:27,922 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:29,615 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:29,615 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:31,466 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:33,215 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:33,216 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:35,121 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:36,874 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:36,875 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:38,656 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:40,476 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:40,476 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:42,672 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:44,436 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:44,437 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:46,301 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:47,960 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:47,961 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:49,716 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:51,496 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:51,497 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:53,308 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:55,033 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:55,033 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:47:56,861 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:47:58,511 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:47:58,511 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:00,355 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:02,189 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:02,189 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:03,966 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:05,656 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:05,657 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:07,717 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:09,474 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:09,474 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:11,184 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:12,865 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:12,866 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:14,703 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:16,540 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:16,541 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:18,289 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:20,038 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:20,038 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:21,838 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:23,629 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:23,630 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:25,386 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:27,121 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:27,122 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:29,192 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:30,791 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:30,791 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:32,473 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:34,034 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:34,035 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:35,716 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:37,285 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:37,285 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:38,983 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:40,578 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:40,578 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:42,278 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:43,864 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:43,864 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:45,825 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:47,494 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:47,494 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:49,126 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:50,699 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:50,700 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:52,370 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:54,021 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:54,021 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:55,669 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:48:57,267 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:48:57,268 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:48:59,108 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:00,924 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:00,925 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:03,658 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:06,634 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:06,634 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:08,595 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:10,461 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:10,462 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:12,057 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:13,664 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:13,665 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:15,404 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:17,042 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:17,042 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:18,658 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:20,283 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:20,284 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:21,929 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:23,550 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:23,551 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:25,153 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:49:26,743 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:49:26,743 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:49:28,391 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:29,789 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:29,789 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:31,464 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:33,040 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:33,041 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:34,730 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:36,348 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:36,348 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:37,938 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:39,439 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:39,439 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:41,109 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:42,692 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:42,693 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:44,351 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:50:45,863 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:50:45,863 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:50:47,547 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:02,541 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:02,541 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:04,264 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:05,909 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:05,910 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:07,605 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:09,240 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:09,240 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:10,950 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:12,532 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:12,532 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:14,228 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:15,828 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:15,828 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:17,500 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:19,101 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:19,101 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:20,829 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:22,452 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:22,452 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:24,131 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:25,710 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:25,711 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:27,397 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:29,049 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:29,049 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:30,739 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:51:32,372 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:51:32,372 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:51:34,086 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:55:46,860 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:55:46,860 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:55:49,010 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:55:50,521 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:55:50,521 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:55:51,840 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:55:53,409 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:55:53,410 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:55:54,718 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:55:56,244 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:55:56,244 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:55:57,513 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:55:59,078 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:55:59,079 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:00,411 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:56:01,957 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:56:01,957 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:03,314 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:56:04,856 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:56:04,856 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:06,178 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:56:07,707 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:56:07,707 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:08,994 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:56:10,553 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:56:10,554 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:11,862 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 13:56:13,440 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 13:56:13,441 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 13:56:14,780 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:36,375 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:36,375 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:38,833 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:40,456 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:40,457 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:41,828 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:43,410 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:43,411 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:44,850 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:46,488 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:46,489 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:48,083 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:49,656 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:49,656 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:51,063 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:52,648 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:52,649 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:53,978 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:55,571 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:55,572 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:56,884 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:31:58,409 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:31:58,409 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:31:59,766 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:32:01,298 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:32:01,298 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:32:02,664 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:32:04,289 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:32:04,290 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:32:05,655 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
+2023-04-05 15:43:19,852 - __main__ - INFO - Successfully connected to MySQL server
+2023-04-05 15:43:19,852 - __main__ - WARNING - Output file already exists and will be overwritten.
+2023-04-05 15:43:22,406 - __main__ - INFO - Output file C:/Users/kramos/Desktop/kevinuseelite.github.io/output.pdf created successfully.
