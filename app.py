@@ -1,11 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-
 import os
 import sys
 import var as v
-
 
 #You can download the PDFreactor Web Service Python client from: 
 #http://www.pdfreactor.com/download/get/?product=pdfreactor&type=webservice_clients&jre=false

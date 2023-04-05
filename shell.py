@@ -10,8 +10,6 @@ import var as v
 import logging.handlers
 import pymysql
 import warnings 
-from django.http import HttpResponse
-from django.shortcuts import render
 
 
 start_time = time.time()
@@ -35,13 +33,12 @@ logger.addHandler(handler)
 # Extract the credentials from the list.
 try:
     conn = pymysql.connect(
-        host =          'iuseeliteparts.cswkkvpqnjji.us-east-1.rds.amazonaws.com',
-        user =          'partmaster',
-        password =      'Partmaster123Partmaster123',
-        port=           3306,
-        cursorclass=    pymysql.cursors.DictCursor
-
-  )
+        host=               v.creds['host'],
+        user=               v.creds['username'],
+        password=           v.creds['password'],
+        port=               v.creds["port"],
+        cursorclass=        pymysql.cursors.DictCursor
+)
     logger.info("Successfully connected to MySQL server")
 
 except pymysql.err.OperationalError as e:
@@ -53,10 +50,11 @@ except pymysql.err.OperationalError as e:
         logger.error("Could not connect to MySQL server")
     else:
         logger.error("Error connecting to MySQL: %s", str(e))
-    exit()
+    pass
 except pymysql.Error as e:
     logger.error("Error connecting to MySQL: %s", str(e))
-    exit()
+    pass
+    
 
 # Check if the output file already exists
 if os.path.exists(v.output_file):
@@ -84,9 +82,10 @@ def run_script():
         logging.error(f"stderr: {process.stderr.read().decode()}")
         exit(1)
 
-run_script()
-
-end_time = time.time()
-runtime = end_time - start_time
-logging.info(f"Script execution completed in {runtime:.2f} seconds.")
-print(f"Script execution completed in {runtime:.2f} seconds.")
+if __name__ == '__main__':
+    print(v.creds)
+    run_script()
+    end_time = time.time()
+    runtime = end_time - start_time
+    logging.info(f"Script execution completed in {runtime:.2f} seconds.")
+    print(f"Script execution completed in {runtime:.2f} seconds.")
